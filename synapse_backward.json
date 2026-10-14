@@ -1,41 +1,57 @@
 {
-    "reply_timestamp": 1792004713,
-    "processed_at": 1792004713.389419,
-    "gradients_for_sensory": [
-        0.0142,
-        -0.0103
-    ],
-    "active_tentacles": [
-        "retina",
-        "cochlea",
-        "tactile",
-        "olfactory"
+    "contract": "bodhi.monad.v1",
+    "node_dna": {
+        "identity": "100048777766367/monad-01",
+        "generation": "M1_SWARM",
+        "node_index": 1,
+        "pulse_age": 1,
+        "ancestor_root": "100048777766367/monad",
+        "generation_epoch": 1
+    },
+    "generation_epoch": 1,
+    "timestamp": 1792004747,
+    "gradients_for_eye": [
+        0.0104,
+        -0.0099
     ],
     "super_xor_masks": {
-        "retina": [
-            62345.3357,
-            15026.7646,
-            38419.3565,
-            36150.5982
+        "100048777766367/retina": [
+            3118.639,
+            58256.7183,
+            1761.021,
+            48880.0492
         ],
-        "cochlea": [
-            24067.2222,
-            8929.8799,
-            25123.176,
-            13248.4776
+        "100048777766367/cochlea": [
+            58117.1122,
+            8628.5447,
+            50664.6559,
+            51422.015
         ],
-        "tactile": [
-            49734.3256,
-            33111.5513,
-            39793.9418,
-            17282.7963
+        "100048777766367/tactile": [
+            41374.1604,
+            30483.0976,
+            12753.7691,
+            35771.4442
         ],
-        "olfactory": [
-            29592.8282,
-            7371.1707,
-            48438.9669,
-            13406.3316
+        "100048777766367/olfactory": [
+            37851.6198,
+            41220.6519,
+            54282.7819,
+            64970.7108
+        ],
+        "100048777766367/seed": [
+            56656.6141,
+            45155.785,
+            29160.2226,
+            62202.2523
         ]
     },
-    "quantum_cid": "22e500636fa705db979e75e3b28113473e4f415f9c594dab069d414f17f6dc3fb9341c835818acd9355c38926ac2b6a13059e23218e3635cc10cd07aa5c26e50"
+    "gossip_network": [
+        "100048777766367/retina",
+        "100048777766367/cochlea",
+        "100048777766367/tactile",
+        "100048777766367/olfactory",
+        "100048777766367/seed"
+    ],
+    "quantum_cid": "b2b799f2795ee95abce0c24dc5afcd4dc9df98ffb923b5cb5815ff408aea63e8006bd6b0827b0ce375a911d7fa2655fa48a8d80b2a2b79e66807f8a98a89f71d"
 }
