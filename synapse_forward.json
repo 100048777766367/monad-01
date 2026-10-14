@@ -1,0 +1,30 @@
+{
+    "contract": "bodhi.monad.v1",
+    "node_dna": {
+        "identity": "100048777766367/monad-01",
+        "generation": "M1_SWARM",
+        "node_index": 1,
+        "pulse_age": 1,
+        "ancestor_root": "100048777766367/monad",
+        "generation_epoch": 2
+    },
+    "generation_epoch": 2,
+    "timestamp": 1792004834,
+    "decision": 0.714149054681605,
+    "command_pulse": [
+        0.7141,
+        0.2859
+    ],
+    "features": [
+        0.7141,
+        0.2859
+    ],
+    "gossip_network": [
+        "100048777766367/retina",
+        "100048777766367/cochlea",
+        "100048777766367/tactile",
+        "100048777766367/olfactory",
+        "100048777766367/seed"
+    ],
+    "quantum_cid": "1d19dcb8eefe4eebc414208608be48c2ba5e1b85b11c999b4108df1cfd7ea3ab4df18cfeb76e1a6ab0b00f1637615c5b9272710d09ee08e4f3d2b879a0fa4e2a"
+}
