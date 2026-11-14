@@ -6,18 +6,18 @@
         "node_index": 1,
         "pulse_age": 1,
         "ancestor_root": "100048777766367/monad",
-        "generation_epoch": 118
+        "generation_epoch": 119
     },
-    "generation_epoch": 118,
-    "timestamp": 1794596379,
-    "decision": 0.8780594334398042,
+    "generation_epoch": 119,
+    "timestamp": 1794616505,
+    "decision": 0.878544404331712,
     "command_pulse": [
-        0.8781,
-        0.1219
+        0.8785,
+        0.1215
     ],
     "features": [
-        0.8781,
-        0.1219
+        0.8785,
+        0.1215
     ],
     "gossip_network": [
         "100048777766367/retina",
@@ -26,5 +26,5 @@
         "100048777766367/olfactory",
         "100048777766367/seed"
     ],
-    "quantum_cid": "8b70e51271d52cb585dd943f2a2ff7f3058ee06d1aa09b56a34ab5f3c342f4725b6e0b52d56e8df7653daf96e950e8441b02a92538570e0a535be1c780b0ab07"
+    "quantum_cid": "ea6abbb52de2aa45a3191f4990e7c3faf24861bd49a40f056b9ae0532f60c3cf6482fbb37c9b230cbd5912e66d2457965ca79713175432de5c5b5c967c95fe43"
 }
